@@ -1,14 +1,26 @@
-layout_spectrum: 0.9511278
-typography_spectrum: 0.3531399
 color:
   saturation: 1
-  lightness: 0.9457573
   brandStrength: 0.17884
+  rhythmicContrast: 0.603115
   brandColors:
     - '#FFFFFB'
     - '#905D4B'
     - '#423931'
     - '#FFE1B3'
     - '#87ACE0'
-  rhythmicContrast: 0.603115
+  lightness: 0.9457573
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9511278
+typography_spectrum: 0.3531399
 name: personal
