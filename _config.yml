@@ -1,0 +1,14 @@
+layout_spectrum: 0.9511278
+typography_spectrum: 0.3531399
+color:
+  saturation: 1
+  lightness: 0.9457573
+  brandStrength: 0.17884
+  brandColors:
+    - '#FFFFFB'
+    - '#905D4B'
+    - '#423931'
+    - '#FFE1B3'
+    - '#87ACE0'
+  rhythmicContrast: 0.603115
+name: personal
